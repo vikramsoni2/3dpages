@@ -100,12 +100,9 @@ p {
 
 
 @media only screen and (max-width:590px){
-  .section{
-    display:block;
-  }
-  body{
-    overflow: scroll;
-  }
+  .section{display:block;}
+  body{overflow: scroll;}
+  
   .environment {
     align-items: flex-start;
     perspective-origin: 48% 0;
